@@ -12,7 +12,16 @@ In this assignment, you'll write your own case study reflecting a data ethics ch
 
 3. `Provide a Related Resources list`. Share one or more resources (links to an article, a personal blog post or image, online research paper etc.) to prove this was a real-world occurrence. Bonus points: share resources that also showcase the potential harms & consequences from the incident, or highlight positive steps taken to prevent its recurrence.
 
+## Solution
 
+### Facebook is using 2FA number to target people with ads
+As it sounds, Facebook uses 2FA to target people with ads. The 2FA number is a phone number that is used to verify the user's identity. It is used to send the user a code to verify the user when try to log in or buy anything on the system.
+This is wrong because, as explained in the Lesson, it affects the Informed Consent Ethic Challenge. The user assumes that the 2FA number is used for security, not to get targeted by ads. It is true that the user is giving that information (and has the possibility to edit/erase it), but it is not true that the user is giving consent to be targeted by ads.
+The explanation Facebook gives is awful, because it is not an excuse to "bring a personalized experience to each user" when what they got is more money related to the ads. You became the product even when you are not informed about that.
+
+Resources:
+- https://techcrunch.com/2018/09/27/yes-facebook-is-using-your-2fa-phone-number-to-target-you-with-ads/
+- https://deon.drivendata.org/examples/
 
 ## Rubric
 
