@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | How is related children alimentation with school performance? | Children's alimentation, children's performance at school | NoSQL Database | What is the best alimentation plan to improve our children's performance at school and how can we manage our children to get involved on those plans? |
+| Vaccination |What is the relation between vaccination and political affinity in Colombia?| Vaccination data in Colombia categorized by States, political affinity in Colombia categorized by States and Age| SQL Databases | Is colombian people influenced to get (or not) vaccinated due to their political affinity? |
+| Productivity | How is related your productivity with the time you are using social networks at free time?  | How much time you are using social networks a day, how much time you are really working| NoSQL Database| What is the relation between the use of social networks and your productivity at work? |
 
 ## Rubric
 
